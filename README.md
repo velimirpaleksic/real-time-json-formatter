@@ -12,7 +12,7 @@ A lightweight, web-based tool to format, validate, and visualize JSON data. This
 ## Demo
 
 ### [Live Website](https://velimirpaleksic.github.io/real-time-json-formatter/)
-![Demo Screenshot](screenshot.png)  
+![Demo Screenshot](screenshot.png)
 
 ## How to Use
 
