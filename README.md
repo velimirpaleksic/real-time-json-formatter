@@ -24,5 +24,5 @@ A lightweight, web-based tool to format, validate, and visualize JSON data. This
 
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
-- VexSystems Github: [github.com/vexsystems](https://github.com/vexsystems).
+- VexSystems GitHub: [github.com/vexsystems](https://github.com/vexsystems).
 - VexSystems Instagram: [@vex.systems](https://www.instagram.com/vex.systems/).
