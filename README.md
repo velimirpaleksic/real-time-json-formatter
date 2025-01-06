@@ -18,10 +18,6 @@ A lightweight, web-based tool to format, validate, and visualize JSON data. This
 4. View the formatted JSON in real-time in the output section.
 5. If there are errors in your JSON, an error message will appear below the output.
 
-## **Bugs & features** 🧩
-- [Report bug](https://github.com/velimirpaleksic/portfolio/issues)
-- [Request Feature](https://github.com/velimirpaleksic/portfolio/issues)
-
 ## **Contact** ✉
 - E-mail: [velimir.paleksic@gmail.com](velimir.paleksic@gmail.com).
 - VexSystems GitHub: [github.com/vexsystems](https://github.com/vexsystems).
